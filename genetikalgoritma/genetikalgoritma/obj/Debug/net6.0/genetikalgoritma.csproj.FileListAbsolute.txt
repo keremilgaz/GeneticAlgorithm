@@ -1,0 +1,15 @@
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\bin\Debug\net6.0\genetikalgoritma.exe
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\bin\Debug\net6.0\genetikalgoritma.deps.json
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\bin\Debug\net6.0\genetikalgoritma.runtimeconfig.json
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\bin\Debug\net6.0\genetikalgoritma.dll
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\bin\Debug\net6.0\genetikalgoritma.pdb
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\genetikalgoritma.csproj.AssemblyReference.cache
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\genetikalgoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\genetikalgoritma.AssemblyInfoInputs.cache
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\genetikalgoritma.AssemblyInfo.cs
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\genetikalgoritma.csproj.CoreCompileInputs.cache
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\genetikalgoritma.dll
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\refint\genetikalgoritma.dll
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\genetikalgoritma.pdb
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\genetikalgoritma.genruntimeconfig.cache
+C:\Users\keroo\source\repos\genetikalgoritma\genetikalgoritma\obj\Debug\net6.0\ref\genetikalgoritma.dll
